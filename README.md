@@ -29,7 +29,7 @@ Project aims to create find the number game (between 0 to 20).
 
 ## Expected Outcome
 
-![Project Snapshot]()
+![Project Snapshot](./guessgame.gif)
 
 ## Objective
 
