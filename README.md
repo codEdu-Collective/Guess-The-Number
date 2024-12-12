@@ -37,4 +37,4 @@ Build a Find the Number Game (Between 0 to 20)
 
 ## Live Page
 
-[Click for live page](https://codedu-collective.github.io/Guess-The-Number/)
+[Click for live page](https://codedu-collective.github.io/guess-number-game/)
